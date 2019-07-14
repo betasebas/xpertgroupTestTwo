@@ -1,0 +1,4 @@
+Se debe configurar en el app.config lo siguiente:
+  <add key="LetterBovinos" value="B" /> => Identificador para clasificar los bovinos.
+  <add key="BasePath" value="C:\Files" /> => Ruta base para la generacion de los archivos.
+  <add key="DataPath" value="C:\data\EQUNOSBOVINOS.DAT" /> => Ruta del origen de datos.
